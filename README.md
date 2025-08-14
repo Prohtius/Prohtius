@@ -1,4 +1,8 @@
-## Hi there 👋
+![Prohtius Logo](https://prohtiusaws-0001.s3.us-east-1.amazonaws.com/ProhtiusText.png)
+
+# Steve Grimstead
+
+## Under Construction
 
 <!--
 **Prohtius/Prohtius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
