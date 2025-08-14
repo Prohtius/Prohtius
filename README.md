@@ -1,7 +1,7 @@
 ![Prohtius Logo](https://prohtiusaws-0001.s3.us-east-1.amazonaws.com/ProhtiusText.png)
 
 # Steve Grimstead
-### The IT Mentor I Never Had!
+### *The IT Mentor I Never Had!*
 
 ## Under Construction
 
