@@ -3,9 +3,13 @@
 # Steve Grimstead
 ### *IT Admins are made, not born.*
 
+## Empowering Systems, Empowering People
+
 Hello and welcome! 
 
 I’m Steve and I’ve been in IT for over 2 decades. I am passionate about building robust, secure, and scalable digital environments. With years of hands-on experience managing Windows Server infrastructures and core network services, I thrive at the intersection of technology and problem-solving.
+
+Through my [YouTube channel](https://www.youtube.com/@ProhTech) I share the knowledge I’ve gained from over two decades in the IT industry in a fun and engaging way. My goal is to break down complex topics, making them accessible and easy to understand, so that you can build a solid toolkit and the confidence to tackle whatever IT challenges you might face out in the wild. 
 
 ## Under Construction
 
@@ -25,12 +29,9 @@ Here are some ideas to get you started:
 
 t
 GitHub About Me: IT Administrator Profile
-Empowering Systems, Empowering People
 
-Tagline: 
-Hello and welcome! 
 
-I’m Steve and I’ve been in IT for over 2 decades. I am passionate about building robust, secure, and scalable digital environments. With years of hands-on experience managing Windows Server infrastructures and core network services, I thrive at the intersection of technology and problem-solving.
+
 
 🖥️ Professional Focus
 •	Windows Server Administration: Installing, configuring, and maintaining Windows Server environments to ensure optimal performance and security.
