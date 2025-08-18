@@ -1,7 +1,7 @@
 ![Prohtius Logo](https://prohtiusaws-0001.s3.us-east-1.amazonaws.com/ProhtiusText.png)
 
 # Steve Grimstead
-### *IT Admins are made, not born.*
+### *IT Admins are not born, they are forged in fire!* 😆
 
 ## Empowering Systems, Empowering People
 
